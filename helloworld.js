@@ -1,2 +1,2 @@
 console.log('hello cd');
-consolg.log('hello git branch');
+console.log('hello git branch');
