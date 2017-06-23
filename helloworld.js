@@ -1,2 +1,2 @@
-console.log('hello world');
-consolg.log('hello git branch');
+console.log('hello cd');
+console.log('hello git branch');
